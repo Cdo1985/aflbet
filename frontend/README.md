@@ -1,0 +1,1 @@
+Frontend scaffold for AFL Prediction NFT dApp using React and ethers.js.
