@@ -1,0 +1,4 @@
+AFL NFT Contract: 0x79f6EC32A6A4BF37Bb1c0148AD8F2d0034409eAa
+AFL Jackpot Contract: 0x9de1C5B5fee399DF0Fe55bF965018DFd8ae500aE
+Network: Base Mainnet
+Mint Price: 0.05 ETH
